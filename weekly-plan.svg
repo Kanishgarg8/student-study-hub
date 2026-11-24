@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="360" viewBox="0 0 600 360"><rect width="600" height="360" fill="#dce8ef"/><g font-family="Arial, sans-serif" fill="#17202a">
+<text x="30" y="50" font-size="28" font-weight="bold">A simple weekly plan</text>
+<rect x="30" y="80" width="540" height="230" fill="#fafafa" stroke="#245c8a" stroke-width="2"/>
+<path d="M210 80V310M390 80V310M30 135H570" stroke="#245c8a" stroke-width="2"/>
+<g font-size="22" font-weight="bold"><text x="55" y="117">Monday</text><text x="230" y="117">Wednesday</text><text x="425" y="117">Friday</text></g>
+<g font-size="20"><text x="50" y="180">Read chapter 2</text><text x="230" y="180">Practice</text><text x="410" y="180">Review notes</text><text x="50" y="220">Write questions</text><text x="230" y="220">5 questions</text><text x="410" y="220">Check progress</text><text x="50" y="270">30 minutes</text><text x="230" y="270">25 minutes</text><text x="410" y="270">20 minutes</text></g></g></svg>
